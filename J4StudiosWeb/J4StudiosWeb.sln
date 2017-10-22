@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J4StudiosWeb", "J4StudiosWeb\J4StudiosWeb.csproj", "{7D700EB6-2721-4A4C-A121-FC76959A2F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J4StudiosWeb.Tests", "J4StudiosWeb.Tests\J4StudiosWeb.Tests.csproj", "{4B81E157-CE10-430E-AB3C-4B9DA9348065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D700EB6-2721-4A4C-A121-FC76959A2F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D700EB6-2721-4A4C-A121-FC76959A2F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D700EB6-2721-4A4C-A121-FC76959A2F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D700EB6-2721-4A4C-A121-FC76959A2F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B81E157-CE10-430E-AB3C-4B9DA9348065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B81E157-CE10-430E-AB3C-4B9DA9348065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B81E157-CE10-430E-AB3C-4B9DA9348065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B81E157-CE10-430E-AB3C-4B9DA9348065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
